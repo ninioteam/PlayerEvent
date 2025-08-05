@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Green Username",
+    "description": "A cool green username cosmetic usable in SquidGame.",
+    "price": "5",
+    "tebexProductID": "green-username-id",
+    "image": "https://i.imgur.com/abcGold.png"
+  },
+  {
+    "id": 2,
+    "name": "Gold Username",
+    "description": "Shiny gold username cosmetic for Lava Rising players.",
+    "price": "$10",
+    "tebexProductID": "gold-username-id",
+    "image": "https://i.imgur.com/abcGold.png"
+  }
+]
