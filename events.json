@@ -7,6 +7,7 @@
     "slots": 5000000,
     "minPlayers": 1,
     "sponsor": "Joe Mama",
+    "ip":"[play.]playerevent.net",
     "game": "Fight Joe Mama",
     "startTime": 1735682400,
     "endTime": 1735689600,
