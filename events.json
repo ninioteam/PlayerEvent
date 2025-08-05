@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Fight Joe Mama - 1/1/2025",
+    "description": "Fight Joe Mama And try to stay Alive",
+    "image": "https://pbs.twimg.com/media/GWpK8m-XIAAe036?format=jpg&name=large",
+    "price": "Joe Mama Dosent Kill You",
+    "slots": 5000000,
+    "minPlayers": 1,
+    "sponsor": "Joe Mama",
+    "game": "Fight Joe Mama",
+    "startTime": 1735682400,
+    "endTime": 1735689600,
+    "winners": ["ninioteam", "Joe Mama"]
+  }
+]
