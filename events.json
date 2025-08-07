@@ -1,5 +1,19 @@
 [
   {
+    "name": "Squid Games - ??/??/202?",
+    "description": "Win the Squid Games.",
+    "image": "https://pbs.twimg.com/media/GWpK8m-XIAAe036?format=jpg&name=large",
+    "reward": "$45.6 (¢10/death)",
+    "slots": 456,
+    "minPlayers": 400,
+    "sponsor": "Player Event",
+    "serverIp":"play.playerevent.net",
+    "game": "Squid Games",
+    "startTime": 9999999999,
+    "endTime": 9999999998,
+    "winners": []
+  },
+  {
     "name": "Lava Rising - 7/8/2025",
     "description": "The lava rising and you need to stay the last one alive",
     "image": "https://pbs.twimg.com/media/GWpK8m-XIAAe036?format=jpg&name=large",
