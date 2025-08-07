@@ -14,20 +14,6 @@
     "winners": []
   },
   {
-    "name": "Lava Rising - 7/8/2025",
-    "description": "The lava rising and you need to stay the last one alive",
-    "image": "https://pbs.twimg.com/media/GWpK8m-XIAAe036?format=jpg&name=large",
-    "reward": "$5m in DonutSMP.net",
-    "slots": 200,
-    "minPlayers": 10,
-    "sponsor": "Player Event",
-    "serverIp":"play.playerevent.net",
-    "game": "Lava Rising",
-    "startTime": 1754571600,
-    "endTime": 1754575200,
-    "winners": []
-  },
-  {
     "name": "Fight Joe Mama - 1/1/2025",
     "description": "Fight Joe Mama And try to stay Alive",
     "image": "https://pbs.twimg.com/media/GWpK8m-XIAAe036?format=jpg&name=large",
