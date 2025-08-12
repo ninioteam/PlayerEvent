@@ -1,14 +1,14 @@
 [
   {
-    "name": "Squid Games - 20/8/2025",
-    "description": "Win the Squid Games.",
-    "image": "https://res.cloudinary.com/zenbusiness/q_auto,w_800/v1/logaster/logaster-2022-07-squid.avif",
-    "reward": "Nothing",
-    "slots": 456,
-    "minPlayers": 300,
-    "sponsor": "No One",
+    "name": "CPVP Event - 14/8/2025",
+    "description": "Be last one alive",
+    "image": "https://media.sketchfab.com/models/d27e5dee058e4e3aa71b986a71e46bac/thumbnails/4bae08aa345e4a8cb7bceedfc6350cda/7e23ff49e81e474cae4e47123f4117a0.jpeg",
+    "reward": "$2.5m (DonutSMP.net)",
+    "slots": 100,
+    "minPlayers": 10,
+    "sponsor": "playerevent.net",
     "serverIp":"play.playerevent.net",
-    "game": "Squid Games",
+    "game": "Crystal PVP",
     "startTime": 1755680400,
     "endTime": 1755687600,
     "winners": []
