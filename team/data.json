@@ -2,5 +2,17 @@
   "ninioteam":{
     "uuid":"c9548f0c3ea54bb4823fe3fd9834515f",
     "ranks":["founder", "developer", "moderator", "builder"]
+  },
+  "ninioteamAlt":{
+    "uuid":"c9548f0c3ea54bb4823fe3fd9834515f",
+    "ranks":["slave"]
+  },
+  "ninioteamAlt2":{
+    "uuid":"c9548f0c3ea54bb4823fe3fd9834515f",
+    "ranks":["slave"]
+  },
+  "ninioteamAlt3":{
+    "uuid":"c9548f0c3ea54bb4823fe3fd9834515f",
+    "ranks":["slave"]
   }
 }
